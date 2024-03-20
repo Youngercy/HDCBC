@@ -1,0 +1,2 @@
+,0,1
+0,MNIST10k,"{'k_DCM': 20, 'K_nearest': 8, 'CM_threshold': 0.08, 'minclustersize': 12}"
